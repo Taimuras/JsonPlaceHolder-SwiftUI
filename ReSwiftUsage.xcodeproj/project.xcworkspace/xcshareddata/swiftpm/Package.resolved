@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/PopupView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e50b60a3fc256c5c557822c1b8c1ddaf3ce412d4"
+      }
+    },
+    {
+      "identity" : "tabbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onl1ner/TabBar",
+      "state" : {
+        "branch" : "master",
+        "revision" : "995e6bc32829d0a0f5300d6f49b654412068dbbe"
+      }
+    }
+  ],
+  "version" : 2
+}
